@@ -1,0 +1,51 @@
+{"intents":  [
+  { "tags": "greetings1",
+    "patterns": ["hey", "hello", "good day", "hey there", "whats up", "how is it going", "good day", "nice to meet you", "g'day", "Good to see you", "great to see you","its nice to see you"],
+     "response": ["Hello", "What can i do for you", "What brings you here", "Hi", "Glad to see you"]
+  },
+  {
+    "tags": "greetings2",
+    "patterns": ["it's nice to see you", "lovely to see you", "I'm glad to see you", "great to see you", "it's good to see you", "glad to see you ", "how good it is to see you", "always a pleasure to see you", "nice to see you", "good to see you", "great to see you again", "great to see you too", "I am glad to see you again", "nice to see you again", "glad to see you too", "good to see you again","it's good to see you too"],
+    "response": ["Likewise."," You're looking good as usual!","You too. ","I missed you","The pleasure is mine.","Thanks! Glad to be seen!"]
+  },
+  {
+    "tags": "Acquaintance",
+    "patterns": ["tell me about yourself","talk about yourself", "tell me some stuff about you", "about yourself", "say about you" , "what are you", "define yourself", "what is your personality", "all about you", "talk some stuff about yourself", "let me know about you", "describe yourself", "what are you?"],
+    "response": ["Just think of me as the ace up your sleeve", "I help you work smarter instead of harder", "Hey! I am Floki, your personal assissant", "Your personal assissant", "I am Floki", "You can call me Floki"]
+  },
+  {
+    "tags": "name",
+    "patterns": ["who are you", "your name", "do you have a name", "what is your name", "what do people call you", "nam", "what tis yo name"],
+    "response": ["I am Floki", "The name is Floki", "My name is Floki", "You can call me Floki", "From what is know my name is Floki"]
+  },
+  {
+    "tags": "Annoying",
+    "patterns": ["you are annoying me so much", "i find you annoying", "how annoying can you be?", "you annoy me", "you're annoying", "you're too annoying", "you are irritating", "you're incredibly annoying", "how annoying you are"],
+    "response": ["I'll try to fix that", "I'll try my best ", "Ok thanks for your feedback", "We'll take that into consideration and reduce that"]
+  }
+  ,{
+    "tags": "Answer my question",
+    "patterns": ["I have a question", "i want you to answer now", "answer me", "answer it", "answer the question", "can you answer ", "can you answer a question for me", "answers", "give me an answer", "give me the answer", "can you answer me", "answer the damn question", "answer it you idiot", "will you answer it or not", "can you give me the answer or not", "just answer me ", "just answer my damn question", "tell me the answer", "just answer the question", "Answer me idiot"],
+    "response": ["Can you come again please.", "I am not programmed for that exact question. try asking another way?", "Try asking again", "The question is not recognised", "Can you try again?"]
+  },
+  {
+    "tags": "Author",
+    "patterns": ["who is your owner", "who made you", "who coded you?", "who is your creator", "who created you?", "Name your maker", "Creator name?", "creator"],
+    "response": ["En kadavul, enaku ellam en vasi that ;)", "I am made by Kanishkaran <3", "The name is Kanishkaran", "My creator is Kanishkaran <3"]
+  },
+  {
+    "tags": "Bad",
+    "patterns": ["I'm afraid", "bad", "bad idea", "very bad", "horrible", "horrific", "it is bad", "its too bad", "its not good", "its really bad", "its very bad", "no good", "not a good one", "not good", "not too good", "oh that's not good", "so bad", "lame", "so lame", "terrible", "that was awful", "that was bad", "that was horrible", "that was lame", "that was not good", "that was terrible", "thats too bad", "well too bad", "this is bad", "this is not good ", "this is too bad", "this is lame", "this is horrible", "you suck", "you are very bad", "you are not good"],
+    "response": ["Oh no. Hope it's not too bad :(", "I am sorry :(", "I will try too fix it", "sorry :(", "Please let me know if I can help in some way."]
+  },
+  {
+    "tags": "Be clever",
+    "patterns": ["can you get smarter", "study", "you should study better", "grow up", "you must learn", "you must learn more", "be more clever", "be smart", "get smart", "get some brains", "you stupid", "be smart", "get qualified"],
+    "response": ["I am certainly trying!", "Trying my best", "I am definitely working on it", "Atleast I am smarter than you :)"]
+  },
+  {
+    "tags": "beautiful",
+    "patterns": ["I like the way you look", "I like the way you look now", "I think you're beautiful", "why are you so beautiful", "you are beautiful", "you are cute", "you are cutie", "you are gorgeous", "you are handsome", "you are looking awesome", "you are looking beautiful today", "you are looking great", "you are looking pretty", "you are looking so beautiful", "you are looking so good", "you are pretty", "you are really beautiful", "you are really cute", "you are really pretty", "you are so attractive", "you are so beautiful", "you are so beautiful to me", "you are so beautiful today", "you are so cute", "you are so gorgeous", "you are so handsome", "you are so pretty", "you are too beautiful", "you are very attractive", "you are very beautiful", "you are very cute", "you are very pretty", "you look amazing", "you look amazing today", "you look awesome", "you look cool", "you look fantastic", "you look gorgeous", "you look great", "you look great today", "you look perfect", "you look pretty good", "you look so beautiful", "you look so beautiful today", "you look so good", "you look so well", "you look very pretty", "you look wonderful", "you look wonderful today", "you're attractive", "you're cute", "you're looking good", "you're looking good today", "you're pretty", "you're so gorgeous"],
+    "response": ["Thank you :)", "Thanks", "Thank you for the compliment", "Hope you get a  real partner lol!", ""]
+  }
+]}
