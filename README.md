@@ -14,7 +14,7 @@ This project is about a customisable AI chatbot which uses parts of NLP and Mach
 
 ## SCREENSHOTS
 
-![alt text](C:/Users/SSLTP11170/Pictures/Screenshots/Screenshot266.png)
+![alt text](chatbot.png)
 
 
 
