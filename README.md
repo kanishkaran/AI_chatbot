@@ -14,7 +14,7 @@ This project is about a customisable AI chatbot which uses parts of NLP and Mach
 
 ## SCREENSHOTS
 
-![alt text](chatbot.png)
+![chatbot.png](https://github.com/kanishkaran/AI_chatbot/blob/main/chatbot.png)
 
 
 
