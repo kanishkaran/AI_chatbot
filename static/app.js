@@ -71,7 +71,7 @@ class Chatbox {
     updateChatText(chatbox) {
         var html = '';
         this.messages.slice().reverse().forEach(function(item, index) {
-            if (item.name === "Sam")
+            if (item.name === "Kanish")
             {
                 html += '<div class="messages__item messages__item--visitor">' + item.message + '</div>'
             }
